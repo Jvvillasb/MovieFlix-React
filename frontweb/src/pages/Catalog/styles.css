@@ -1,0 +1,43 @@
+.catalog-container {
+  padding: 20px 10px;
+}
+
+.catalog-filter-container {
+  display: flex;
+  align-items: center;
+  padding: 5px 20px;
+  width: 100%;
+  height: 60px;
+  color: #fff;
+}
+
+
+@media (min-width: 576px) {
+  .catalog-container {
+    padding: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .catalog-container {
+    padding: 40px 40px 50px 40px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .catalog-container {
+    padding: 40px 40px 88px 40px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .catalog-container {
+    padding: 40px 140px 392px 140px;
+  }
+
+  .catalog-filter-container {
+    padding: 15px 20px;
+  }
+}
+
+

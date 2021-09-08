@@ -1,0 +1,50 @@
+.movie-filter-genre-container {
+  flex: 1;
+  width: 100%;
+	margin-right: 10px;
+}
+
+.movie-filter-form {
+	width: 260px;
+}
+
+.movie-filter-select__control {
+	height: 50px;
+	font-size: 16px;
+	letter-spacing: -0.015em;
+	color: #ffffff !important;
+	background-color: #6C6C6C	!important;
+	border: 1px solid #e1e1e1 !important;
+}
+
+.movie-filter-select__placeholder {
+	color: #ffffff !important;
+}
+
+
+.movie-filter-select__value-container {
+	color: #ffffff !important;
+}
+
+.movie-filter-select__menu {
+	color: #ffffff !important;
+	background-color: #6C6C6C	!important;
+}
+
+.movie-filter-select__option {
+	color: #ffffff !important;
+	background-color: #6C6C6C	!important;
+}
+
+.movie-filter-select__indicator-separator {
+	display: none;
+}
+
+.movie-filter-select__indicator{
+	color: #ffffff !important;
+}
+
+.movie-filter-select__single-value {
+	color: #ffffff !important;
+}
+
